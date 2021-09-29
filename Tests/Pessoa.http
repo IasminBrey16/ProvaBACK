@@ -3,10 +3,10 @@ POST https://localhost:5001/api/pesssoa/create
 Content-Type: application/json
 
 {
-    "Nome" : "",
-    "Cpf" : "",
-    "Email" : "",
-    "Telefone" : ""
+    "Nome" : "Laury",
+    "Cpf" : "6466262",
+    "Email" : "lau@email.com",
+    "Telefone" : "4665-67868"
 }
 
 ###
